@@ -1,2 +1,1 @@
-# Existing solution - Extract and Predict
-## To be solved is the double axis problem, solution - Difference between Stockprice relative to time and Stockprice relative to Algoscore at the same timestamp.
+Extract the day's stock price and train the data set to predict the next day's stock price.
